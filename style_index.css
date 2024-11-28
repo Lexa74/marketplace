@@ -12,7 +12,7 @@ body {
 }
 
 .main-section {
-  background-image: url(pictures/background.jpg);
+  background-image: url(./pictures/background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -120,23 +120,23 @@ body {
 }
 
 .for__item_1 {
-  background-image: url(pictures/for-rest.jpg);
+  background-image: url(./pictures/for-rest.jpg);
 }
 
 .for__item_2 {
-  background-image: url(pictures/for-work.jpg);
+  background-image: url(./pictures/for-work.jpg);
 }
 
 .for__item_3 {
-  background-image: url(pictures/for-kitchen.jpg);
+  background-image: url(./pictures/for-kitchen.jpg);
 }
 
 .for__item_4 {
-  background-image: url(pictures/for-baby.jpg);
+  background-image: url(./pictures/for-baby.jpg);
 }
 
 .for__item_5 {
-  background-image: url(pictures/for-bath.jpg);
+  background-image: url(./pictures/for-bath.jpg);
 }
 
 .products {
@@ -545,7 +545,7 @@ li {
 }
 
 .main-section_cart {
-  background-image: url(pictures/backgroung_cart.jpg);
+  background-image: url(./pictures/backgroung_cart.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1078,7 +1078,7 @@ li {
 }
 
 .main-section_catalog {
-  background-image: url(pictures/background2.jpg);
+  background-image: url(./pictures/background2.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1179,7 +1179,7 @@ li {
   left: 0;
 }
 .form .form__input:checked + label::before {
-  background-image: url(pictures/checkrow.svg);
+  background-image: url(./pictures/checkrow.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -1249,7 +1249,7 @@ li {
 }
 
 .form-checkbox__input:checked + .form-checkbox__label::before {
-  background-image: url(pictures/checkrow.svg);
+  background-image: url(./pictures/checkrow.svg);
   background-repeat: no-repeat;
   background-position: center;
   border-color: #000000;
@@ -1260,7 +1260,7 @@ li {
 .form-checkbox__input:checked + .checkbox__blue::before,
 .form-checkbox__input:checked + .checkbox__blue-purple::before,
 .form-checkbox__input:checked + .checkbox__purple::before {
-  background-image: url(pictures/checkrow-white.svg);
+  background-image: url(./pictures/checkrow-white.svg);
 }
 
 .checkbox__white::before {
@@ -1397,7 +1397,7 @@ li {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  background-image: url(pictures/row.jpg);
+  background-image: url(./pictures/row.jpg);
   background-repeat: no-repeat;
   background-position: 140px;
   border-radius: 32px;
@@ -1413,7 +1413,7 @@ li {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  background-image: url(pictures/row.jpg);
+  background-image: url(./pictures/row.jpg);
   background-repeat: no-repeat;
   background-position: 185px;
   border-radius: 32px;

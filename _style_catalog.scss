@@ -1,4 +1,4 @@
-.main-section_catalog{background-image: url(pictures/background2.jpg);
+.main-section_catalog{background-image: url(./pictures/background2.jpg);
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -85,7 +85,7 @@ a:hover{text-decoration: underline;}}
         left: 0;}
 
         .form__input:checked+label::before {
-            background-image: url(pictures/checkrow.svg);
+            background-image: url(./pictures/checkrow.svg);
             background-repeat: no-repeat;
             background-position: center;}
 
@@ -129,7 +129,7 @@ a:hover{text-decoration: underline;}}
     background-color: #FFFFFF;}
     .form-checkbox__input{display: none;}
 .form-checkbox__input:checked + .form-checkbox__label::before{
-    background-image: url(pictures/checkrow.svg);
+    background-image: url(./pictures/checkrow.svg);
     background-repeat: no-repeat;
     background-position: center;
     border-color: #000000;}
@@ -138,7 +138,7 @@ a:hover{text-decoration: underline;}}
 .form-checkbox__input:checked + .checkbox__blue::before,
 .form-checkbox__input:checked + .checkbox__blue-purple::before,
 .form-checkbox__input:checked + .checkbox__purple::before{
-    background-image: url(pictures/checkrow-white.svg);}
+    background-image: url(./pictures/checkrow-white.svg);}
 
 
     .checkbox__white::before {
@@ -260,7 +260,7 @@ font-weight: 500;
 font-size: 16px;
 padding-left: 23px;
 appearance: none;
-background-image: url(pictures/row.jpg);
+background-image: url(./pictures/row.jpg);
 background-repeat: no-repeat;
 background-position: 140px;
 border-radius: 32px;
@@ -273,7 +273,7 @@ font-weight: 400;
 font-size: 16px;
 padding-left: 23px;
 appearance: none;
-background-image: url(pictures/row.jpg);
+background-image: url(./pictures/row.jpg);
 background-repeat: no-repeat;
 background-position: 185px;
 border-radius: 32px;
